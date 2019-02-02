@@ -1,3 +1,4 @@
 # Data-Crawling-using-Twitter-API
 
-The preprocessing file consist of python script for crawling data from twitter using the streaming API.
+A simple python script(preprocessing.py) to crawl data using the streaming API of twitter and classify it into seperate files such as 
+City, Text, Emoticons, Hashtags, topic in the text, Language used in tweet
