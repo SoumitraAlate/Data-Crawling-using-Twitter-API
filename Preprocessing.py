@@ -24,10 +24,10 @@ from nltk.corpus import stopwords
 import random
 
 #Variables that contains the user credentials to access the twitter API
-consumer_key = "FuG9MVZ4I5mmZENb5rTyplhoF"
-consumer_secret = "PUbx3R2eWNRbYaHReeMmpK8xuIiJWShoNu2Mk0sDaye36xRvqc"
-access_token = "1037053024617865216-VUcTGKqWP4kZugGXuJg7f8byadgZk9"
-access_secret = "IZerP1C6gbGoL4t2uPUbpHVxwti5mhqJTf82cACuTYmcu"
+consumer_key = ""
+consumer_secret = ""
+access_token = ""
+access_secret = ""
 
 
 #Using OAuth interface to allow the app to access the twitter data
